@@ -1,5 +1,5 @@
 # GitPractice 
-## this is a simple practice repo[
+## this is a simple practice repo
 
 **ROOMMATES**
 - khushiii
